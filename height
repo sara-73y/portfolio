@@ -1,0 +1,12 @@
+<body>
+  <!-- Código omitido -->
+  <img
+    src="img/avatar-perfil.png"
+    alt="avatar da Fernanda"
+    class="rounded-circle"
+    width="150"
+    height="150"
+    srcset=""
+  />
+  <!-- Código omitido -->
+</body>
